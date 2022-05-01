@@ -25,7 +25,8 @@ class MainActivity : AppCompatActivity() {
         println(lars.returnBandName("Metal"))
         lars.sing()
 
-        //polymorphism
+        //polymorphism is done by two ways
+
         //static poly
         println(Mathematics().sum())
         println(Mathematics().sum(4))
