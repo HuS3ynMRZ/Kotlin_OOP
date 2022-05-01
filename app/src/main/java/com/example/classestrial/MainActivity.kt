@@ -26,7 +26,6 @@ class MainActivity : AppCompatActivity() {
         lars.sing()
 
         //polymorphism
-
         //static poly
         println(Mathematics().sum())
         println(Mathematics().sum(4))
